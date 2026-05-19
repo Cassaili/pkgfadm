@@ -19,6 +19,11 @@ un objeto sf
 \description{
 Title
 }
+\examples{
+\dontrun{
+extraer_ageb(data_ageb = x, data_loc = y, localidad = "Xalapa-Enríquez")
+}
+}
 \author{
 Casandra Ailicec Robles Cruz
 }
