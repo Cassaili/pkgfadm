@@ -1,0 +1,17 @@
+Package: pkgfadm
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Casandra Ailicec", "Robles Cruz",
+      email = "zs22013035@estudiantes.uv.mx",
+      role = c("aut", "cre")
+    )
+  )
+Description: Extraer AGEBS
+    Continuation lines should be indented.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.0.0
